@@ -58,7 +58,7 @@ main {
 
         b {
             background: -webkit-linear-gradient(180deg, $light-primary-color, $secondary-color);
-            -webkit-background-clip: text;
+            background-clip: text;
             -webkit-text-fill-color: transparent;
             font-style: normal;
         }
